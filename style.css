@@ -393,6 +393,7 @@ padding-left: 10px;
     border-radius: 10px;
     margin-right: 10px;
     color: white;
+    max-width: 100%;
 }
 #service-form {
     background-color: #012d5b;
